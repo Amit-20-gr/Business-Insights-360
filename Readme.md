@@ -37,3 +37,5 @@ The primary objective of this comprehensive Power BI project is to assess the pe
     ![Screenshot 2024-01-21 164801](https://github.com/Amit-20-gr/Business-Insights-360/assets/157269493/3f501ccd-6ffa-47e1-a669-8f38bf32cc46)
     ### Marketing View
     ![Screenshot 2024-01-21 164836](https://github.com/Amit-20-gr/Business-Insights-360/assets/157269493/d501a6e6-434c-4494-ba9c-0a00ff1190ff)
+    ### Supply Chain View
+    ![Screenshot 2024-01-21 164901](https://github.com/Amit-20-gr/Business-Insights-360/assets/157269493/4efbdde5-e47e-40c2-a9b4-443672d239af)
