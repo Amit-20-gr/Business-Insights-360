@@ -36,7 +36,7 @@ The primary objective of this comprehensive Power BI project is to assess the pe
     ### Sales View
     ![Screenshot 2024-01-21 164801](https://github.com/Amit-20-gr/Business-Insights-360/assets/157269493/3f501ccd-6ffa-47e1-a669-8f38bf32cc46)
     ### Marketing View
-    ![Screenshot 2024-01-21 164836](https://github.com/Amit-20-gr/Business-Insights-360/assets/157269493/d501a6e6-434c-4494-ba9c-0a00ff1190ff)
+    ![Screenshot 2024-01-21 222206](https://github.com/Amit-20-gr/Business-Insights-360/assets/157269493/3fc35bf8-70a2-4fa7-9dfe-0f3b46677fef)
     ### Supply Chain View
     ![Screenshot 2024-01-21 164901](https://github.com/Amit-20-gr/Business-Insights-360/assets/157269493/4efbdde5-e47e-40c2-a9b4-443672d239af)
     ### Sales Trend
@@ -47,6 +47,6 @@ The primary objective of this comprehensive Power BI project is to assess the pe
     ![Screenshot 2024-01-21 165030](https://github.com/Amit-20-gr/Business-Insights-360/assets/157269493/92f49159-f180-48e4-83c3-f81ed51e024a)
     ### Support
     ![Screenshot 2024-01-21 165046](https://github.com/Amit-20-gr/Business-Insights-360/assets/157269493/6b5cb789-058f-4e52-abd5-613a7e71fad7)
-    ### snowflake Schema
+    ### Tables Relationship(snowflake Schema)
     ![Screenshot 2024-01-21 171207](https://github.com/Amit-20-gr/Business-Insights-360/assets/157269493/c1ab9f65-788c-4fd8-833c-71fd443dc7ba)
     
