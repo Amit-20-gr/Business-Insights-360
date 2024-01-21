@@ -29,3 +29,5 @@ The primary objective of this comprehensive Power BI project is to assess the pe
   - Allow users to customize their analysis, focusing on specific parameters for more targeted insights.
     ### Home
     ![Screenshot 2024-01-21 165306](https://github.com/Amit-20-gr/Business-Insights-360/assets/157269493/6acd4c2b-dc7b-4e77-b744-bacf14315b57)
+    ### P & L checks
+    ![Screenshot 2024-01-21 164637](https://github.com/Amit-20-gr/Business-Insights-360/assets/157269493/67f1c632-db7e-4086-b455-5596caf0034d)
