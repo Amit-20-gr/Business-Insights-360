@@ -4,9 +4,8 @@ The primary objective of this comprehensive Power BI project is to assess the pe
 ##Key goals include:
 
 1. Performance Assessment:
-
-  _- Evaluate the overall performance of Atliq Hardware through a detailed analysis of critical performance metrics.
-  _- Identify areas for improvement and potential bottlenecks affecting hardware performance.
+  - Evaluate the overall performance of Atliq Hardware through a detailed analysis of critical performance metrics.
+  - Identify areas for improvement and potential bottlenecks affecting hardware performance.  
 2. Dashboard Development:
 
   - Create an interactive Power BI dashboard providing a visual representation of Atliq Hardware's performance metrics.
