@@ -27,3 +27,5 @@ The primary objective of this comprehensive Power BI project is to assess the pe
 
   - Implement filters based on fiscal year, quarters, products, customers, regions, and segments.
   - Allow users to customize their analysis, focusing on specific parameters for more targeted insights.
+    ### Home
+    ![Screenshot 2024-01-21 165306](https://github.com/Amit-20-gr/Business-Insights-360/assets/157269493/6acd4c2b-dc7b-4e77-b744-bacf14315b57)
