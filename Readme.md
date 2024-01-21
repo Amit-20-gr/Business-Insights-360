@@ -41,6 +41,8 @@ The primary objective of this comprehensive Power BI project is to assess the pe
     ![Screenshot 2024-01-21 164901](https://github.com/Amit-20-gr/Business-Insights-360/assets/157269493/4efbdde5-e47e-40c2-a9b4-443672d239af)
     ### Sales Trend
     ![Screenshot 2024-01-21 164942](https://github.com/Amit-20-gr/Business-Insights-360/assets/157269493/590c47bd-f1cc-4516-bbbe-0f7cb28a5f2d)
+    ### Executive View
+    ![Screenshot 2024-01-21 165241](https://github.com/Amit-20-gr/Business-Insights-360/assets/157269493/f623b3b2-52c3-459f-8fbd-7644a5e8ea8d)
     ### Info
     ![Screenshot 2024-01-21 165030](https://github.com/Amit-20-gr/Business-Insights-360/assets/157269493/92f49159-f180-48e4-83c3-f81ed51e024a)
     ### Support
