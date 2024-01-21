@@ -1,9 +1,9 @@
-### Bussiness Insights 360
-##Project Aim:
+# Bussiness Insights 360
+##Project Aim:  
 The primary objective of this comprehensive Power BI project is to assess the performance of Atliq Hardware and facilitate data-driven decision-making for performance enhancement.  
 ##Key goals include:
 
-## 1. Performance Assessment:
+## 1. Performance Assessment:  
   - Evaluate the overall performance of Atliq Hardware through a detailed analysis of critical performance metrics.
   - Identify areas for improvement and potential bottlenecks affecting hardware performance.  
 ## 2. Dashboard Development:
